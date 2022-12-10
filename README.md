@@ -1,5 +1,6 @@
 # CRUD-Pelicula
-La creación de una aplicación de escritorio para el alquiler de películas
+La creación de una aplicación de escritorio para el alquiler de películas.
+Se implemento la tecnologia JDBC para la conexion con la base de datos
 
 --Recomendacion--
 1. Se uso neatbens v16
